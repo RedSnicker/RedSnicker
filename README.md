@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RedSnicker</h1>
-<h3 align="center">I'm a Python And Java Developer From **Iran**</h3>
+<h3 align="center">I'm a Python And Java Developer From <b>Iran</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redsnicker&label=Profile%20views&color=0e75b6&style=flat" alt="redsnicker" /> </p>
 
