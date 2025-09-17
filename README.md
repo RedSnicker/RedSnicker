@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RedSnicker</h1>
-<h3 align="center">I'm a Python And Java Developer From <b>Iran</b></h3>
+<h3 align="center">I'm a Python And Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redsnicker&label=Profile%20views&color=0e75b6&style=flat" alt="redsnicker" /> </p>
 
 - 🔭 I’m currently working on [Chest Solutions](https://chest-solutions.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://redsnicker.cardd.co/](https://redsnicker.cardd.co/)
+- 👨‍💻 All of my projects are available at [https://redsnicker.carrd.co/](https://redsnicker.carrd.co/)
 
 - ⚡ Fun fact **I'm also a 3D Artist**
 
